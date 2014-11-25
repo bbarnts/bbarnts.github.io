@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon Barnts</title>
+    <description>A personal page for sharing whatever I want.
+</description>
+    <link>http://brandonbarnts.com/</link>
+    <atom:link href="http://brandonbarnts.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Nov 2014 15:06:04 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 15:06:04 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>I’m not a blogger, but I keep making blogs</title>
+        <description>&lt;p&gt;Welcome to my third ever blog post on the second blog site I’ve created.
+The obvious truth is I am not a blogger, I’m just a guy who like playing with new
+tools. I recently read something about Jekyll and wanted to give it a try.
+The page you’re looking at is the result of my first attempt. It turns out
+I think Jekyll is pretty cool and I think it could easily become a go to tool
+for creating simple site like this.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-whats-so-great-about-jekyll-plain-text&quot;&gt;So what’s so great about Jekyll? Plain text.&lt;/h2&gt;
+&lt;p&gt;I love plain text. Just ask my coworkers. I write everything in Vim and fill
+our project wikis with ASCII flowcharts. Even better than plain old plain text
+is plain text with &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;. 
+Markdown is a standardized way (although there is no official standard)
+of adding structural elements like heading levels, emphasis, and tables to your plain text document. 
+Markdown conventions are very readable in plain text form but can also be easily translated
+to HTML (with tools like Jekyll) where we can control the styling with good ol’ CSS. &lt;/p&gt;
+
+&lt;p&gt;For example, note how readable this table is in Markdown:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;| Movie               | Release year    |
+| ------------------- | --------------: |
+| Star Wars           | 1977            |
+| Empire Strike Back  | 1980            |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As opposed to the equivalent to the HTML:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;table&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tbody&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;Movie&lt;span class=&quot;nt&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;Release year&lt;span class=&quot;nt&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;Star Wars&lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;1970&lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;Empire Strike Back&lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;1980&lt;span class=&quot;nt&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/tbody&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/table&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;With Jekyll, you can write the content of your site in Markdown. I created this post,
+for example, by just adding a text file to my &lt;code&gt;_posts&lt;/code&gt; directory. Jekyll handles 
+translating it to HTML, applying the layout I’ve defined for posts (adding header, footers, etc).
+This leads me to another thing I like about Jekyll.&lt;/p&gt;
+
+&lt;h2 id=&quot;its-just-html&quot;&gt;It’s just HTML&lt;/h2&gt;
+&lt;p&gt;The website that Jeykll renders from the Markdown files is a self-contained collection of static
+HTML files. No runtime environments, frameworks, or databases are required. This means
+you can pretty much host your site from anywhere that can serve files. You could even
+zip it up and email it to someone. Using Github Pages, you can even host your site for free.
+That’s what I’m doing for this site.&lt;/p&gt;
+
+&lt;p&gt;One of the most obvious drawbacks of Jekyll is that there is no built-in commenting
+feature like you see on every Wordpress blog. If you have any thoughts to share, feel
+free to shoot me a message via email or Twitter.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2014 00:00:00 -0700</pubDate>
+        <link>http://brandonbarnts.com/2014/11/25/Im-not-a-blogger.html</link>
+        <guid isPermaLink="true">http://brandonbarnts.com/2014/11/25/Im-not-a-blogger.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How I would improve Amazon’s ratings</title>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;In a recent conversation about online product ratings, I heard myself make the sweeping statement that “Amazon ratings are somewhat meaningless” (or something overly sweeping like that). In truth, the ratings are not completely meaningless. Millions of people (including myself) use them everyday to help with buying decisions. However, I think they could be much better. Customers look at ratings for a prediction of whether or not they will like a product. Using Amazon’s existing ratings data, I believe it is possible to make a better prediction than the current system.&lt;/p&gt;
+
+&lt;h1 id=&quot;harry-potter-vs-twilight&quot;&gt;Harry Potter vs. Twilight&lt;/h1&gt;
+
+&lt;p&gt;Say for example, I am trying to decide which of two books to purchase: &lt;em&gt;Harry Potter and the Sorcerer’s Stone&lt;/em&gt; or &lt;em&gt;Twilight&lt;/em&gt;. Amazon’s average star rating for each is close to four stars, with a slightly higher rating for Harry Potter. Glancing at these ratings (and assuming I’ve lived in a cave for the past 13 years), I might conclude that the probability of me liking either book is nearly equal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/resources/images/harrypotter_stars.jpg&quot; alt=&quot;Harry Potter average star rating&quot; title=&quot;harrypotter_stars&quot; /&gt;
+&lt;img src=&quot;/resources/images/twilight_stars.jpg&quot; alt=&quot;Twilight average star rating&quot; title=&quot;twilight_stars&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I click the reviews link, Amazon provides a more detailed breakdown of the data with a histogram depicting the total for each of the five possible ratings. This helps paint a better picture, but there is something strange about the Twilight data. Twilight’s histogram has two peaks: one in five-star ratings and the other in one-star ratings. This is a common occurrence in Amazon ratings. Am I really more likely to give one star than two stars to a book that majority of reviewers loved?  Intuitively, this does not make sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/resources/images/harrypotter_histogram.jpg&quot; alt=&quot;Harry Potter histogram&quot; title=&quot;harrypotter_histogram&quot; /&gt;
+&lt;img src=&quot;/resources/images/twilight_histogram.jpg&quot; alt=&quot;Twilight histogram&quot; title=&quot;twilight_histogram&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My guess, in this case, is that this bimodal distribution results from sample data that is not truly random. I suspect (though I cannot prove it) that customers with passionate feelings about a product are more likely to review it than others. This would explain why so many Amazon products have fewer three-star ratings than any other.&lt;/p&gt;
+
+&lt;h1 id=&quot;solution-gaussian-distributions&quot;&gt;Solution: Gaussian distributions&lt;/h1&gt;
+
+&lt;p&gt;In an attempt to more accurately predict the likelihood of any given rating for an average customer, I used Amazon’s data to construct a Gaussian distribution for the ratings of each book. For those who have not recently taken a statistics class, these graphs show the probability (y axis) for every possible star-rating (x axis) between one and five. The total colored area under the curve represents 100% of the population (customers). As you can see, these graphs show a significant difference between the ratings of the two books. What I like about Gaussian distributions is that they communicate certainty. A steep pointed curve indicates more certainty in a prediction than a broad and flatter curve. As you can see from these examples, the prediction that you would rate Harry Potter 4-stars or higher is much more certain than for Twilight.&lt;/p&gt;
+
+&lt;p&gt;Harry Potter ratings distribution &lt;img src=&quot;/resources/images/harrypotter_gaussian.jpg&quot; alt=&quot;Harry Potter gaussian&quot; title=&quot;harrypotter gaussian&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Twilight ratings distribution &lt;img src=&quot;/resources/images/twilight_gaussian.jpg&quot; alt=&quot;Twilight Gaussian&quot; title=&quot;twilight gaussian&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think these graphs are more useful than Amazon’s histograms, but I believe we can boil this information down even further to a single &lt;a href=&quot;http://www.rottentomatoes.com/&quot; title=&quot;Rotten Tomatoes&quot;&gt;Rotten Tomatoes&lt;/a&gt; style number representing the overall probability that you will like a product. Let’s say that any rating over three stars is equivalent to &lt;em&gt;liking&lt;/em&gt; a product. Using our Gaussian distributions we can sum the probability of all ratings over three stars.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Book&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Chance you’ll like it&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Harry Potter&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;99%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Twilight&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;76%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Now that I know there is a 99% chance I will like Harry Potter and only 76% chance I will like Twilight, my purchase decision is made easy.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;If my interpretation of the bimodal ratings patterns is correct, applying a bit of probability theory to Amazon’s existing ratings data would give customers a better prediction about whether or not they will like a product. What do you think? Would you prefer this approach over Amazon’s?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Aug 2012 00:00:00 -0700</pubDate>
+        <link>http://brandonbarnts.com/2012/08/27/amazon-ratings.html</link>
+        <guid isPermaLink="true">http://brandonbarnts.com/2012/08/27/amazon-ratings.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Google problem</title>
+        <description>&lt;p&gt;I have a little problem with Google that has nothing to do with with any of recent headlines concerning the company. The last time I Googled myself (come on, who doesn’t do this?), it brought back over 5,000 results. Cool, right? I must be &lt;em&gt;very&lt;/em&gt; important. The top result was &lt;a title=&quot;Brandon&#39;s IMDb page&quot; href=&quot;http://www.imdb.com/name/nm0056132/&quot; target=&quot;_blank&quot;&gt;my IMDb page&lt;/a&gt; and the majority of the 15 pages following mostly had titles like &lt;em&gt;filmography&lt;/em&gt; or &lt;em&gt;credits&lt;/em&gt;. They &lt;em&gt;are&lt;/em&gt; referring to my actual film credits, but the problem is that I no longer work in film. In fact, I’m actively pursuing a career in a entirely different field. When prospective employers Google my name, I want them to learn that I am a competent software engineer, not that I’m “known for” &lt;em&gt;Ping Pong Playa&lt;/em&gt; (thanks IMDb). They might be interested to know I worked on &lt;a href=&quot;http://en.wikipedia.org/wiki/Ray_Kurzweil&quot; target=&quot;_blank&quot;&gt;Ray Kurzweil’s&lt;/a&gt; film, but &lt;em&gt;How to Be a Serial Killer&lt;/em&gt; may not necessarily be what some people are looking for in a potential coworker’s credentials.&lt;/p&gt;
+
+&lt;p&gt;I’ve created this website to give Google’s search engine something else to find. I’ll use it to keep up-to-date info about what I’m doing &lt;em&gt;now&lt;/em&gt;. And, from time-to-time I may even attempt it to share some bit of knowledge I think no one should live without. With a little luck (and more page views from visitors like you), I hope to eventually displace my IMDb page with this one. Thanks for stopping by!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jun 2012 00:00:00 -0700</pubDate>
+        <link>http://brandonbarnts.com/2012/06/20/my-google-problem.html</link>
+        <guid isPermaLink="true">http://brandonbarnts.com/2012/06/20/my-google-problem.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

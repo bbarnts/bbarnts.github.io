@@ -1,0 +1,12 @@
+# Site settings
+title: Brandon Barnts
+email: brandon.barnts@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    A personal page for sharing whatever I want.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brandonbarnts.com" # the base hostname & protocol for your site
+twitter_username: brandonbarnts
+github_username:  bbarnts
+
+# Build settings
+markdown: kramdown
