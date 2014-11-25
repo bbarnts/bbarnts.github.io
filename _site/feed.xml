@@ -6,8 +6,8 @@
 </description>
     <link>http://brandonbarnts.com/</link>
     <atom:link href="http://brandonbarnts.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Nov 2014 15:26:52 -0700</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2014 15:26:52 -0700</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 15:29:58 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 15:29:58 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -36,7 +36,7 @@ to HTML (with tools like Jekyll) where we can control the styling with good olâ€
 | Empire Strike Back  | 1980            |
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;As opposed to the equivalent to the HTML:&lt;/p&gt;
+&lt;p&gt;As opposed to the HTML equivalent:&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;table&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;tbody&amp;gt;&lt;/span&gt;

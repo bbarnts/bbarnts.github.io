@@ -31,7 +31,7 @@ For example, note how readable this table is in Markdown:
     | Empire Strike Back  | 1980            |
 
 
-As opposed to the equivalent to the HTML:
+As opposed to the HTML equivalent:
 
 {% highlight html %}
 <table>
