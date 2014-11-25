@@ -6,8 +6,8 @@
 </description>
     <link>http://brandonbarnts.com/</link>
     <atom:link href="http://brandonbarnts.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Nov 2014 15:06:04 -0700</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2014 15:06:04 -0700</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 15:26:52 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 15:26:52 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,12 +16,12 @@
 The obvious truth is I am not a blogger, I’m just a guy who like playing with new
 tools. I recently read something about Jekyll and wanted to give it a try.
 The page you’re looking at is the result of my first attempt. It turns out
-I think Jekyll is pretty cool and I think it could easily become a go to tool
-for creating simple site like this.&lt;/p&gt;
+I think Jekyll is pretty cool and I think it could easily become one of my &lt;em&gt;go to&lt;/em&gt; tools
+for creating simple sites like this one.&lt;/p&gt;
 
 &lt;h2 id=&quot;so-whats-so-great-about-jekyll-plain-text&quot;&gt;So what’s so great about Jekyll? Plain text.&lt;/h2&gt;
 &lt;p&gt;I love plain text. Just ask my coworkers. I write everything in Vim and fill
-our project wikis with ASCII flowcharts. Even better than plain old plain text
+our project wikis with ASCII flowcharts. Even better than regular plain text
 is plain text with &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;. 
 Markdown is a standardized way (although there is no official standard)
 of adding structural elements like heading levels, emphasis, and tables to your plain text document. 

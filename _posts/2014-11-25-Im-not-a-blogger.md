@@ -7,14 +7,14 @@ Welcome to my third ever blog post on the second blog site I’ve created.
 The obvious truth is I am not a blogger, I’m just a guy who like playing with new
 tools. I recently read something about Jekyll and wanted to give it a try.
 The page you’re looking at is the result of my first attempt. It turns out
-I think Jekyll is pretty cool and I think it could easily become a go to tool
-for creating simple site like this.
+I think Jekyll is pretty cool and I think it could easily become one of my _go to_ tools
+for creating simple sites like this one.
 
 
 So what’s so great about Jekyll? Plain text.
 --------------------------------------------
 I love plain text. Just ask my coworkers. I write everything in Vim and fill
-our project wikis with ASCII flowcharts. Even better than plain old plain text
+our project wikis with ASCII flowcharts. Even better than regular plain text
 is plain text with [Markdown](http://daringfireball.net/projects/markdown/syntax). 
 Markdown is a standardized way (although there is no official standard)
 of adding structural elements like heading levels, emphasis, and tables to your plain text document. 
