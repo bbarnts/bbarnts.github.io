@@ -1,0 +1,7 @@
+---
+layout: post
+title: My Google problem
+---
+I have a little problem with Google that has nothing to do with with any of recent headlines concerning the company. The last time I Googled myself (come on, who doesn’t do this?), it brought back over 5,000 results. Cool, right? I must be <em>very</em> important. The top result was <a title="Brandon's IMDb page" href="http://www.imdb.com/name/nm0056132/" target="_blank">my IMDb page</a> and the majority of the 15 pages following mostly had titles like <em>filmography</em> or <em>credits</em>. They <em>are</em> referring to my actual film credits, but the problem is that I no longer work in film. In fact, I’m actively pursuing a career in a entirely different field. When prospective employers Google my name, I want them to learn that I am a competent software engineer, not that I’m “known for” <em>Ping Pong Playa</em> (thanks IMDb). They might be interested to know I worked on <a href="http://en.wikipedia.org/wiki/Ray_Kurzweil" target="_blank">Ray Kurzweil’s</a> film, but <em>How to Be a Serial Killer</em> may not necessarily be what some people are looking for in a potential coworker’s credentials.
+
+I’ve created this website to give Google’s search engine something else to find. I’ll use it to keep up-to-date info about what I’m doing <em>now</em>. And, from time-to-time I may even attempt it to share some bit of knowledge I think no one should live without. With a little luck (and more page views from visitors like you), I hope to eventually displace my IMDb page with this one. Thanks for stopping by!
