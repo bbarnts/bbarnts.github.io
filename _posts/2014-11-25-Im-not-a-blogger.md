@@ -4,7 +4,7 @@ title: I’m not a blogger, but I keep making blogs
 ---
 
 Welcome to my third ever blog post on the second blog site I’ve created.
-The obvious truth is I am not a blogger, I’m just a guy who like playing with new
+The obvious truth is that I am not a blogger, I’m just a guy who likes playing with new
 tools. I recently read something about Jekyll and wanted to give it a try.
 The page you’re looking at is the result of my first attempt. It turns out
 I think Jekyll is pretty cool and I think it could easily become one of my _go to_ tools
